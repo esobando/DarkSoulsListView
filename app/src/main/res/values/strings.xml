@@ -1,0 +1,240 @@
+<resources>
+    <string name="app_name">Dark Souls</string>
+
+    <string-array name="Bosses">
+        <item>Iudex Gundyr</item>
+        <item>Vordt of The Boreal Valley</item>
+        <item>Curse Rotted Greatwood </item>
+        <item>Crystal Sage </item>
+        <item>Deacons of the Deep </item>
+        <item>Abyss Watchers</item>
+        <item>High Lord Wolnir </item>
+        <item>Old Demon King</item>
+        <item>Pontiff Sulyvhan</item>
+        <item>Aldrich, Devourer of Gods </item>
+        <item>Yorhm The Giant</item>
+        <item>Dancer of the Boreal Valley</item>
+        <item>Oceiros, The Consumed King </item>
+        <item>Champion Gundyr</item>
+        <item>Dragon Slayer Armour</item>
+        <item>Lothric, Younger Prince</item>
+        <item>Ancient Wyvern </item>
+        <item>Nameless King</item>
+        <item>Soul of Cinder </item>
+        <item>Champions Gravetender and Gravetender Greatwolf </item>
+        <item>Sister Friede</item>
+        <item>Demon Prince </item>
+        <item>Halflight, Spear of the Church </item>
+        <item>Darkeater Midir </item>
+        <item>Slave Knight Gael </item>
+
+
+
+
+    </string-array>
+
+    <string-array name="YorhmTheGiant">
+        <item>Location: Profained Capital</item>
+        <item>Weak against: Lightning</item>
+        <item>Resistant: Slash and Thrust</item>
+        <item>Immune: Poison/Toxic, Fire ,Bleed, Frost</item>
+        <item>Soul Drop: 36,000</item>
+
+    </string-array>
+
+    <string-array name="AbyssWatchers">
+        <item>Location: Farron Keep</item>
+        <item>Weak Against: Lightning</item>
+        <item>Resistant: Dark and Bleed</item>
+        <item>Immune: Poison/Toxic</item>
+        <item>Soul Drop: 18,000</item>
+    </string-array>
+
+    <string-array name="DanceroftheBorealValley">
+        <item>Location: High Wall of Lothric</item>
+        <item>Weak Against: Dark, lightning, Strike, Bleed</item>
+        <item>Resistant: N/A </item>
+        <item>Immune: Poison/Toxic, Frost </item>
+        <item>Soul Drop: 60,000</item>
+    </string-array>
+
+    <string-array name="DragonSlayerArmour">
+        <item>Location: Lothric Castle </item>
+        <item>Weak Against: Frost, Strike, Wolf Knights Greatsword, Farron Greatsword</item>
+        <item>Resistant: Dark, Lightning, slash </item>
+        <item>Immune: Poison/Toxic, Bleed </item>
+        <item>Soul Drop: 48,000</item>
+    </string-array>
+    <string-array name="NamelessKing">
+        <item>Location: Archdragon Peak </item>
+        <item>Weak Against: Fire, Dark </item>
+        <item>Resistant: Frost, Lightning, Bleed </item>
+        <item>Immune: Poison/Toxic </item>
+        <item>Soul Drop: 80,000</item>
+    </string-array>
+    <string-array name="ChampionGundyr">
+        <item>Location: Untended Graves </item>
+        <item>Weak Against: Strike, Lightning, Frost </item>
+        <item>Resistant: Slash, Poison/Toxic, Bleed </item>
+        <item>Immune: None </item>
+        <item>Soul Drop: 60,000</item>
+    </string-array>
+
+    <string-array name="LothricYoungerPrince">
+        <item>Location: Grand Archives </item>
+        <item>Weak Against: Lorain: Lightning, Frost, Magic\n
+                            Lothric: Physical Attack
+        </item>
+        <item>Resistant: Dark </item>
+        <item>Immune: Poison/Toxic </item>
+        <item>Soul Drop: 85,000</item>
+    </string-array>
+    <string-array name="SisterFriede">
+        <item>Location: Ariandel Chapel(Painted World of Ariandel)</item>
+        <item>Weak Against: Friede: Physical, BleedBleed, DarkDark, Backstab, LightningLightning\n
+            Ariandel: All types of damage, Riposte\n
+            Blackflame Friede:  BleedBleed, LightningLightning, Dark, Backstab
+        </item>
+        <item>Resistant: Friede: PoisonPoison/Toxic,\n
+                        Ariandel: None\n
+                        Blackflame Friede: Poison/ToxicPoison/Toxic,
+        </item>
+        <item>Immune: Friede: Frost\n
+                      Ariandel: None\n
+                      Blackflame Friede: Frost
+        </item>
+        <item>Soul Drop: 72,000</item>
+    </string-array>
+    <string-array name="VordtofTheBorealValley">
+        <item>Location: High Wall of Lothric </item>
+        <item>Weak Against: Dark, Fire </item>
+        <item>Resistant: Slash, Thrust </item>
+        <item>Immune: Poison/Toxic, Bleed, Frost </item>
+        <item>Soul Drop: 3000 </item>
+    </string-array>
+    <string-array name="PontiffSulyvahn">
+        <item>Location: Irithyll of the Boreal Valley </item>
+        <item>Weak Against: Thrust, Fire, Lightning, Critical Strike </item>
+        <item>Resistant: Posoin/Toxic, Bleed, Frost </item>
+        <item>Immune: N/A </item>
+        <item>Soul Drop: 28,000 </item>
+    </string-array>
+
+    <string-array name="OldDemonKing">
+        <item>Location: Smouldering Lake </item>
+        <item>Weak Against: Dark </item>
+        <item>Resistant: Fire </item>
+        <item>Immune: Bleed, Frost </item>
+        <item>Soul Drop: 25,000 </item>
+    </string-array>
+    <string-array name="IudexGundyr">
+        <item>Location: Cemetary of Ash </item>
+        <item>Weak Against: Frost, Fire </item>
+        <item>Resistant: Dark, Bleed  </item>
+        <item>Immune: Poison/Toxic </item>
+        <item>Soul Drop: 3000 </item>
+    </string-array>
+    <string-array name="CurseRottedGreatwood">
+        <item>Location: Undead Settlement </item>
+        <item>Weak Against: Slash, Thrust, Fire </item>
+        <item>Resistant: N/A  </item>
+        <item>Immune: Poison/Toxic, Bleed, Frost </item>
+        <item>Soul Drop: 7000 </item>
+    </string-array>
+
+    <string-array name="CrystalSage">
+        <item>Location: Road of Sacrifice </item>
+        <item>Weak Against: Physical, Lighning, Poison/Toxic, Bleed  </item>
+        <item>Resistant: Magic </item>
+        <item>Immune: N/A </item>
+        <item>Soul Drop: 8000 </item>
+    </string-array>
+    <string-array name="AldrichDevourOfGods">
+        <item>Location: Anor Londo </item>
+        <item>Weak Against: Fire, Lighning, Farron Greatsword, Wolf Knight Greatsword, Vow of Silence  </item>
+        <item>Resistant: Magic, Dark, Frost </item>
+        <item>Immune: Poison/Toxic </item>
+        <item>Soul Drop: 50000 </item>
+    </string-array>
+
+    <string-array name="DeaconsOfTheDeep">
+        <item>Location: Cathedral of the Deep </item>
+        <item>Weak Against: Physical, Frost  </item>
+        <item>Resistant: Magic, Dark, Bleed, Poison/Toxic </item>
+        <item>Immune:  N/A </item>
+        <item>Soul Drop: 13,000(150 Per Deacon) </item>
+    </string-array>
+
+    <string-array name="HighLordWolnir">
+        <item>Location: Catacombs of Carthus </item>
+        <item>Weak Against: Blessed Weapons, Bracelets  </item>
+        <item>Resistant: Dark </item>
+        <item>Immune:  Poison/Toxic, Bleed Frost </item>
+        <item>Soul Drop: 22,000 </item>
+    </string-array>
+
+    <string-array name="OceirosTheConsumedKing">
+        <item>Location: The Consumed Kings Garden </item>
+        <item>Weak Against: Ligtning, Frost  </item>
+        <item>Resistant: Magic, Bleed </item>
+        <item>Immune:  Poison/Toxic </item>
+        <item>Soul Drop: 58,000 </item>
+    </string-array>
+    <string-array name="AncientWyvern">
+        <item>Location: Archdragon Peak </item>
+        <item>Weak Against: Ligtning, Frost  </item>
+        <item>Resistant: Poison/Toxic Bleed </item>
+        <item>Immune:  None </item>
+        <item>Soul Drop: 70,000 </item>
+    </string-array>
+    <string-array name="SoulofCinder">
+        <item>Location: Kiln of the First Flame </item>
+        <item>Weak Against: Ligtning, Dark, Frost Vow of Silence(First phase, sorcerer set)  </item>
+        <item>Resistant: Fire, Bleed </item>
+        <item>Immune:  Poison/Toxic </item>
+        <item>Soul Drop: 100,000 </item>
+    </string-array>
+    <string-array name="ChampionsGravetenderandGravetenderGreatwolf">
+        <item>Location: Painted World of Ariandel </item>
+        <item>Weak Against: Tender: Bleed, Lighning \n Wolf:Bleed, fire, Lightning   </item>
+        <item>Resistant: Tender: Frost, Poison/Toxic \n Wolf: Frost </item>
+        <item>Immune:  None </item>
+        <item>Soul Drop: 60,000 </item>
+    </string-array>
+    <string-array name="DemonPrince">
+        <item>Location: Dreg Heap </item>
+        <item>Weak Against: Bleed, Black Knight Weapons   </item>
+        <item>Resistant: Fire, Magic, Lightning, Strike, Thrust </item>
+        <item>Immune:  Frost, Poison/Toxic </item>
+        <item>Soul Drop: 100,000 </item>
+    </string-array>
+    <string-array name="HalflightSpearoftheChurch">
+        <item>Location: The Ringed City </item>
+        <item>Weak Against: Halflight: Frost, Lightning \n Guardian: Fire, Frost, Lightning, Vow of Silence   </item>
+        <item>Resistant: Halflight: Bleed, Poison/Toxic \n Guardian: Bleed, Poison/Toxic </item>
+        <item>Immune:  Halflight: N/A \n Guardian: N/A </item>
+        <item>Soul Drop: 80,000 </item>
+    </string-array>
+    <string-array name="DarkeaterMidir">
+        <item>Location: The Ringed City </item>
+        <item>Weak Against: Thrust, Farron GreadSword, Pestilent Mercury, Critical Strike   </item>
+        <item>Resistant: Dark, Fire, Magic </item>
+        <item>Immune:  Poison/Toxic,Bleed, Frost </item>
+        <item>Soul Drop: 150,000 </item>
+    </string-array>
+    <string-array name="SlaveKnightGael">
+        <item>Location: Filianores Rest </item>
+        <item>Weak Against: Frost, Poison/Toxic, Farron Greatsword, Wolf Knight Greatsword, Hallowslayer Greatsword   </item>
+        <item>Resistant: Dark(second and third Phase), Bleed  </item>
+        <item>Immune:  N/A </item>
+        <item>Soul Drop: 120,000 </item>
+    </string-array>
+    <string name="title_activity_navigation">Navigation</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+</resources>
